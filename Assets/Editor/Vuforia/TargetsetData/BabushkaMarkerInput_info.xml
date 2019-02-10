@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 17:55:49" name="bird" targetId="53d9a54e4d764ed8a9bc346295cbd708" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 17:52:27" name="chimpanzee" targetId="aa885d116dda433fb27b2076bd40df7f" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 17:29:10" name="pig" targetId="c28a0dd4174b4dadbb015c96cd6f790d" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 17:25:43" name="tiger" targetId="91c1c4a5b80945839a94097e7cc18071" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 17:22:37" name="lion" targetId="e1d8ead2077542619bc3ac5ecca810ec" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 18:49:59" name="fox" targetId="f6613e1890404697bb9fd065a29a2ab7" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 18:31:28" name="reindeer" targetId="a312cc225963412d9bf0a4c7d8dbb889" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 18:27:25" name="penguin" targetId="0311f47f1c8d405ab958f2a525881276" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 18:19:26" name="snowman" targetId="cd8747377fb8413bb0a1bfd6ca5f7d1f" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 18:08:28" name="santa" targetId="e42eb749f55840ed8853019ad8182bef" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 17:15:58" name="child" targetId="538b6bb15d944490ba98ada1d9978adc" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 17:12:42" name="mom" targetId="367cbd07e6d44752854d2a27a427d2a2" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 17:04:30" name="dad" targetId="1a1ad88b46a3466f9fe2b32203884278" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 16:55:39" name="grandma" targetId="484563503fb64c5886f8abfb572514bb" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 0.1 0.1 0.1" captureAppVersion="6.5.0" lastSaved="2019-02-06 16:52:17" name="grandpa" targetId="18268286912149cd8610b20885a023bc" version="2.0" />
+  </TargetSet>
+</QCARInfo>

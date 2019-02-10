@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="lion" size="0.080000 0.173416" />
+    <ImageTarget name="grandpa" size="0.073000 0.181212" />
+    <ImageTarget name="santa" size="0.070000 0.148678" />
+  </Tracking>
+</QCARConfig>

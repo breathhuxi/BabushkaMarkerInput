@@ -1,0 +1,16 @@
+id,set,doll,target,left_movie,middle_movie,right_movie
+0,0,grandpa,ImageTargetGrandpa,grandpa_left.mp4,grandpa_middle.mp4,grandpa_right.mp4
+1,0,grandma,ImageTargetGrandma,grandma_left.mp4,grandma_middle.mp4,grandma_right.mp4
+2,0,dad,ImageTargetDad,dad_left.mp4,dad_middle.mp4,dad_right.mp4
+3,0,mom,ImageTargetMom,mom_left.mp4,mom_middle.mp4,mom_right.mp4
+4,0,child,ImageTargetChild,child_left.mp4,child_middle.mp4,child_right.mp4
+5,1,santa,ImageTargetSanta,santa_left.mp4,santa_middle.mp4,santa_right.mp4
+6,1,snowman,ImageTargetSnowman,snowman_left.mp4,snowman_middle.mp4,snowman_right.mp4
+7,1,penguin,ImageTargetPenguin,penguin_left.mp4,penguin_middle.mp4,penguin_right.mp4
+8,1,reindeer,ImageTargetReindeer,reindeer_left.mp4,reindeer_middle.mp4,reindeer_right.mp4
+9,1,fox,ImageTargetFox,fox_left.mp4,fox_middle.mp4,fox_right.mp4
+10,2,lion,ImageTargetLion,lion_left.mp4,lion_middle.mp4,lion_right.mp4
+11,2,tiger,ImageTargetTiger,tiger_left.mp4,tiger_middle.mp4,tiger_right.mp4
+12,2,pig,ImageTargetPig,pig_left.mp4,pig_middle.mp4,pig_right.mp4
+13,2,chimpanzee,ImageTargetChimpanzee,chimpanzee_left.mp4,chimpanzee_middle.mp4,chimpanzee_right.mp4
+14,2,bird,ImageTargetBird,bird_left.mp4,bird_middle.mp4,bird_right.mp4

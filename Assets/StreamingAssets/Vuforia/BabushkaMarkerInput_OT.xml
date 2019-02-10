@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <Tracking>
+    <ObjectTarget name="bird" />
+    <ObjectTarget name="chimpanzee" />
+    <ObjectTarget name="pig" />
+    <ObjectTarget name="tiger" />
+    <ObjectTarget name="lion" />
+    <ObjectTarget name="fox" />
+    <ObjectTarget name="reindeer" />
+    <ObjectTarget name="penguin" />
+    <ObjectTarget name="snowman" />
+    <ObjectTarget name="santa" />
+    <ObjectTarget name="child" />
+    <ObjectTarget name="mom" />
+    <ObjectTarget name="dad" />
+    <ObjectTarget name="grandma" />
+    <ObjectTarget name="grandpa" />
+  </Tracking>
+</QCARConfig>
